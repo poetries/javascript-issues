@@ -1,0 +1,3 @@
+- [Ajax入门（一）从0开始到一次成功的GET请求](https://guowenfh.github.io/2015/12/18/Ajax-elementary-course-1/)
+- [Ajax入门（二）Ajax函数封装](http://guowenfh.github.io/2015/12/18/Ajax-elementary-course-2-fn/)
+- [jQuery入门笔记之（三）jQuery中的Ajax](https://guowenfh.github.io/2016/01/03/jQuery-05-Ajax/)
